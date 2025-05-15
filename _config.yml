@@ -7,12 +7,10 @@ title: STEM教育辅助系统
 # Owner/author information
 owner:
   name: 明幽
-  avatar: /images/OIP.webp
-  # bio: Two roads diverged in woods, I took the one less traveled by.
+  avatar: /images/OIP.webp/
   email: mingyoufhh@outlook.com
-  #简历，没用cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  location: xian, China
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  github: baidu.com
   bilibili: bilibili.com
   zhihu: https://www.zhihu.com
   # facebook: caihanlin2002
@@ -49,7 +47,7 @@ highlighter: rouge
 # pygments: true
 
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
+
 permalink:   /:categories/:title
 
 

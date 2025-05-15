@@ -4,7 +4,7 @@ permalink: /index/index.html
 title: index
 ---
 
-# About Me - 中小学STEM教育辅助系统
+#  中小学STEM教育辅助系统
 
 <img src="https://www.bing.com/images/search?view=detailV2&ccid=7N%2frk5Wv&id=94B985145A17415336A12E48307FCF3BBCCD9595&thid=OIP.7N_rk5Wvl8HlLH6A_9EwhQHaFj&mediaurl=https%3a%2f%2fmodules.ilabs.uw.edu%2fwp-content%2fuploads%2fM19_Early-STEM_page04.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.ecdfeb9395af97c1e52c7e80ffd13085%3frik%3dlZXNvDvPfzBILg%26pid%3dImgRaw%26r%3d0&exph=900&expw=1200&q=stem&simid=608007567327123374&FORM=IRPRST&ck=953A49BF21102C8913D18C31699D05DE&selectedIndex=2&itb=0" class="floatpic">
 
@@ -31,12 +31,12 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **June 2024**：Very excited 
+- **May 2024：**My bachelor thesis won.
+- **April 2024：**Our work *
+- **March 2024：**Very excited to get a MPhil 
+- **Dec 2023：**Very excited to be selected a. See you in Canada!
+- **Jun 2022：**Started research programm advised by Prof. Pietro Liò.
 
 <br>
 
