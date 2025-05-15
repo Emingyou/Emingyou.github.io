@@ -9,7 +9,7 @@ title: 关于教育系统
 
 <img src="pt1.jpg"class="floatpic">
 
-<br><br><br>
+<br><br>
 
 
 **<font color="#990000">STEM 教育：培养未来创新者的跨学科教育范式</font>**
