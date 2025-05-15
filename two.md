@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /hobbies/index.html
-title: Hobbies
+permalink: /two/index.html
+title: 系统
 ---
 
 # Hobbies

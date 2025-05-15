@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /awards/index.html
-title: Awards
+permalink: /three/index.html
+title: three
 ---
 
 > Update: 20th Sep 2024
