@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /index/index.html
+
 title: 关于教育系统
 ---
 
 #  中小学STEM教育辅助系统
 
 
-<img src="pt1.jpg"class="floatpic">
+<img src="pt1.jpg" class="floatpic">
 
 <br><br>
 
@@ -32,7 +32,7 @@ STEM 教育是科学（Science）、技术（Technology）、工程（Engineerin
 ---
 <br>
 
-## 为什么 STEM 教育如此重要？：
+## 为什么 STEM 教育如此重要？
 <br>
 人工智能、气候变化、生物科技等全球性议题，需要跨学科人才运用综合知识提出解决方案。STEM 教育通过模拟真实场景的项目（如设计环保装置、编写智能程序），让学生在实践中掌握 “用科技解决问题” 的思维模式。
 <br>
