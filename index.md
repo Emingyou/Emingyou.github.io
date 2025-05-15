@@ -6,9 +6,11 @@ title: 关于教育系统
 
 #  中小学STEM教育辅助系统
 
-<img src="/images/LOGO.webp"class="floatpic">
 
-Here is **中小学STEM教育辅助系统**.<br>
+<img src="pt1.jpg"class="floatpic">
+
+
+
 
 **<font color="#990000">STEM 教育：培养未来创新者的跨学科教育范式</font>**
 
