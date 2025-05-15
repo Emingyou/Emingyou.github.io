@@ -1,5 +1,7 @@
 ---
 layout: page
+permalink: /index/index.html
+title: index
 ---
 
 # About Me - 中小学STEM教育辅助系统
