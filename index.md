@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /index/index.html
-title: index
+title: 关于教育系统
 ---
 
 #  中小学STEM教育辅助系统

@@ -6,19 +6,14 @@ title: STEM教育辅助系统
 
 # Owner/author information
 owner:
-  name: 明幽
-  avatar: /images/OIP.webp/
+  name: 登录：
+  avatar: <img src="/images/LOGO.webp/">
   email: mingyoufhh@outlook.com
   location: xian, China
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  bilibili: bilibili.com
+  bilibili: wwww.bilibili.com
   zhihu: https://www.zhihu.com
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
-  # lastfm:
-  # tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  # google_plus:
+
 
 
 
@@ -27,7 +22,7 @@ owner:
 links:
   # - title: Startups
     # url: /startups/
-  - title: 关于本教育系统
+  - title: 关于教育系统
     url: /index/
   - title: 初级学习教程
     url: /one/
@@ -38,7 +33,7 @@ links:
   - title: 程序资料库
     url: /four/
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
 timezone: China/Beijing
 future: true
 highlighter: rouge
