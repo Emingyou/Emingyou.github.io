@@ -33,11 +33,11 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # For external links add external: true
 links:
   - title: About Me
-    url: /index
+    url: /index/
   - title: Publications
-    url: /blob/main/hobbies.md
+    url: /Publications/
   - title: Awards
-    url: /awards.md/
+    url: /awards/
   - title: Hobbies
     url: https://github.com/Emingyou/Emingyou.github.io
   # - title: Startups
