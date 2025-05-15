@@ -32,18 +32,18 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: 关于教育系统
-    url: /index/
-  - title: Publications
-    url: /one/
-  - title: Awards
-    url: /two/
-  - title: Hobbies
-    url: /three/
   # - title: Startups
     # url: /startups/
-  - title: Blogs
-    url: /blogs/
+  - title: 关于本教育系统
+    url: /index/
+  - title: 初级学习教程
+    url: /one/
+  - title: 进阶学习教程
+    url: /two/
+  - title: 元件资料库
+    url: /three/
+  - title: 程序资料库
+    url: /four/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /three/index.html
-title: three
+title: 元件资料库
 ---
 
 > Update: 20th Sep 2024

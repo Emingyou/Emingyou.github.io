@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /two/index.html
-title: 系统
+title: 进阶学习教程
 ---
 
 # Hobbies

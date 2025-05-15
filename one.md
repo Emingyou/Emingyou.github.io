@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /one/index.html
-title: one
+title: 初级学习教程
 ---
 
 > (†: equal contribution, ~: corresponding author)

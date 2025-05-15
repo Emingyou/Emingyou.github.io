@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blogs/index.html
-title: Blogs
+permalink: /four/index.html
+title: 程序资料库
 ---
 
 ## Chinese Blogs 中文博客
