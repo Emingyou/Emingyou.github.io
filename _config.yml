@@ -32,14 +32,14 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
-    url: 
+  - title: 关于教育系统
+    url: /index/
   - title: Publications
-    url: /publications/
+    url: /one/
   - title: Awards
-    url: /awards/
+    url: /two/
   - title: Hobbies
-    url: /hobbies/
+    url: /three/
   # - title: Startups
     # url: /startups/
   - title: Blogs
