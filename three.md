@@ -4,8 +4,8 @@ permalink: /three/index.html
 title: 元件资料库
 ---
 
-# 初级学习教程
-## -基于link boy的Arduino UNO学习
+## 初级学习教程
+### -基于link boy的Arduino UNO学习
 ---
 <br>
 <br>
