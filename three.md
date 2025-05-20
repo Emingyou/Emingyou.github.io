@@ -4,26 +4,46 @@ permalink: /three/index.html
 title: 元件资料库
 ---
 
-> Update: 20th Sep 2024
+# 初级学习教程
+## -基于link boy的Arduino UNO学习
+---
+<br>
+<br>
 
-## Scholarships
+### Arduino实验第一章-LED小灯控制
 
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+- [第一课-家居小灯（上）制作一个基本的小灯闪烁实验](blogs/1.linkboy/1第一课 家居小灯（上）V2.md)
+- [第二课-家居小灯（下）实现用按钮控制LED的亮与灭](blogs/1.linkboy/2第二课 家居小灯（下）V2.md)
+<br>
+---
 
-## Competitions
+### Arduino实验第二章-红外遥控
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+
+- [第三课-遥控报警器（上）使用红外遥控，进行简单的控制](blogs/1.linkboy/3第三课 遥控报警器（上）V2.md)
+- [第四课-遥控报警器（下）通过红外遥控实现多种功能](blogs/1.linkboy/4第四课 遥控报警器（下）V2.md)
+<br>
+---
+
+### Arduino实验第三章-180电控舵机
+
+- [第五课-自动举牌机（上）使用180电控舵机进行舵机臂的旋转](blogs/1.linkboy/5第五课 自动举牌机（上）V2.md)
+- [第六课-自动举牌机（下）通过电位器等控制手段实现180电控舵机的控制](blogs/1.linkboy/6第六课 自动举牌机（下）V2.md)
+<br>
+---
+
+### Arduino实验第四章-超声波雷达
+
+
+- [第七课-探测雷达（上）使用超声波雷达制作一个倒车雷达功能模型](blogs/1.linkboy/7第七课 探测雷达（上）V2.md)
+- [第八课-可旋转探测雷达（下）通过180舵机与超声波雷达的元件组合，实现旋转探测](blogs/1.linkboy/8第八课 可旋转探测雷达（下）V2.md)
+<br>
+---
+
+### Arduino实验第五章-遥控小车
+
+- [第九课-遥控小车（上）学习基础的电机控制，实现主板控制电机的旋转情况](blogs/1.linkboy/9第九课 遥控小车（上）V2.md)
+- [第十课-遥控小车（下）以本次学习的多种元件，红外遥控等，最终制成一个具有相当可玩性的遥控小车](blogs/1.linkboy/第十课 遥控小车（下）V2.md)
 
 <br>
+

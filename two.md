@@ -4,51 +4,46 @@ permalink: /two/index.html
 title: 进阶学习教程
 ---
 
-# Hobbies
 
-This page hasn’t been updated for a long time. Over the past year, I’ve remained passionate about swimming, but the lack of convenient and decent swimming pools in Cambridge has been an inconvenience. As a result, I’ve been swimming less frequently and have gained some weight. If you’re also in Cambridge and interested in swimming, running, or hiking together, feel free to contact me!
-
-## Swimming & Surfing
-
-<div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
-</div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 15-year swimming career. Recently, I am also keen on surfing.
-
-## Workshop
-
-<div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
-</div>
-<br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
-
-[best universities in my hometown]:https://www.fzu.edu.cn/
-
-
-## Past Hobbies
-
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
-
-## My Cat
-
-She is my love. Her name is Qbao (Q宝).
-
-<div>
-<img src="/images/cat.JPG">
-</div>
+# 初级学习教程
+## -基于link boy的Arduino UNO学习
+---
+<br>
 <br>
 
-## Chat with me
+### Arduino实验第一章-LED小灯控制
 
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
+- [第一课-家居小灯（上）制作一个基本的小灯闪烁实验](blogs/1.linkboy/1第一课 家居小灯（上）V2.md)
+- [第二课-家居小灯（下）实现用按钮控制LED的亮与灭](blogs/1.linkboy/2第二课 家居小灯（下）V2.md)
+<br>
+---
 
-<!-- Calendly inline widget begin -->
+### Arduino实验第二章-红外遥控
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
 
+- [第三课-遥控报警器（上）使用红外遥控，进行简单的控制](blogs/1.linkboy/3第三课 遥控报警器（上）V2.md)
+- [第四课-遥控报警器（下）通过红外遥控实现多种功能](blogs/1.linkboy/4第四课 遥控报警器（下）V2.md)
+<br>
+---
+
+### Arduino实验第三章-180电控舵机
+
+- [第五课-自动举牌机（上）使用180电控舵机进行舵机臂的旋转](blogs/1.linkboy/5第五课 自动举牌机（上）V2.md)
+- [第六课-自动举牌机（下）通过电位器等控制手段实现180电控舵机的控制](blogs/1.linkboy/6第六课 自动举牌机（下）V2.md)
+<br>
+---
+
+### Arduino实验第四章-超声波雷达
+
+
+- [第七课-探测雷达（上）使用超声波雷达制作一个倒车雷达功能模型](blogs/1.linkboy/7第七课 探测雷达（上）V2.md)
+- [第八课-可旋转探测雷达（下）通过180舵机与超声波雷达的元件组合，实现旋转探测](blogs/1.linkboy/8第八课 可旋转探测雷达（下）V2.md)
+<br>
+---
+
+### Arduino实验第五章-遥控小车
+
+- [第九课-遥控小车（上）学习基础的电机控制，实现主板控制电机的旋转情况](blogs/1.linkboy/9第九课 遥控小车（上）V2.md)
+- [第十课-遥控小车（下）以本次学习的多种元件，红外遥控等，最终制成一个具有相当可玩性的遥控小车](blogs/1.linkboy/第十课 遥控小车（下）V2.md)
+
+<br>
