@@ -13,36 +13,33 @@ title: 初级学习教程
 ### 实验一
 
 - [第一课-家居小灯（上）制作一个基本的小灯闪烁实验](blogs/1.linkboy/1第一课 家居小灯（上）V2.md)
-- [AAAI 2024 温哥华参会实录](https://caihanlin.com/blogs/aaai-24/)
-- [24Fall，英国硕士项目申请实录](https://caihanlin.com/blogs/24fall/)
+- [第一课-家居小灯（上）制作一个基本的小灯闪烁实验](blogs/1.linkboy/2第二课 家居小灯（下）V2.md)
 <br>
 
 ### 实验二
 
 
-- [21岁，何妨吟啸且徐行](https://caihanlin.com/blogs/21yrs)<br>
-- [极简风Jekyll个人网站搭建指南](https://caihanlin.com/blogs/web)<br>
-- [本科生数学建模竞赛指南](https://caihanlin.com/blogs/team2023)<br>
-- [海外暑研申请指南](https://caihanlin.com/blogs/summer-res)<br>
+- [第一课-家居小灯（上）制作一个基本的小灯闪烁实验](blogs/1.linkboy/3第三课 遥控报警器（上）V2.md)
+- [第一课-家居小灯（上）制作一个基本的小灯闪烁实验](blogs/1.linkboy/4第四课 遥控报警器（下）V2.md)
 <br>
 
 ### 实验三
 
-- [20岁，宽心且看月中桂](https://caihanlin.com/blogs/20yrs)<br>
-- [暂停、暂停、暂停](https://caihanlin.com/blogs/stop/)
+- [第一课-家居小灯（上）制作一个基本的小灯闪烁实验](blogs/1.linkboy/5第五课 自动举牌机（上）V2.md)
+- [第一课-家居小灯（上）制作一个基本的小灯闪烁实验](blogs/1.linkboy/6第六课 自动举牌机（下）V2.md)
 <br>
 
 ### 实验四
 
 
-- [19岁，山高路亦远](https://caihanlin.com/blogs/19yrs)<br>
-- [星野学社实习回忆录](https://caihanlin.com/blogs/star)
+- [第一课-家居小灯（上）制作一个基本的小灯闪烁实验](blogs/1.linkboy/7第七课 探测雷达（上）V2.md)
+- [第一课-家居小灯（上）制作一个基本的小灯闪烁实验](blogs/1.linkboy/8第八课 可旋转探测雷达（下）V2.md)
 <br>
 
 ### 实验五
 
-- [18岁，缓慢受锤的黄金年代](https://caihanlin.com/blogs/18yrs)<br>
-- [本科博客，笔记，回忆录](https://mieclance.club/)
+- [第一课-家居小灯（上）制作一个基本的小灯闪烁实验](blogs/1.linkboy/9第九课 遥控小车（上）V2.md)
+- [第一课-家居小灯（上）制作一个基本的小灯闪烁实验](blogs/1.linkboy/第十课 遥控小车（下）V2.md)
 
 <br>
 
