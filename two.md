@@ -169,7 +169,7 @@ max-width: 95vw;
 
 ### Mixly ESP32 实验 第十三节-步进电机
 
-- [步进电机-学习文档](blogs/2.MD/1小灯闪烁-学习文档.md)
+- [步进电机-学习文档](blogs/1.linkboy/1LV2.md)
 
 
 
