@@ -1,3 +1,10 @@
+---
+layout: page
+permalink: /indexxx/index.html
+title: 关于STEM教育
+---
+
+
 <style>
 .page-content, .post-content, body {
   font-size: 1.25em;
@@ -33,11 +40,10 @@ img.floatpic {
   }
 }
 </style>
----
-layout: page
-permalink: /indexxx/index.html
-title: 关于STEM教育
----
+
+
+
+
 
 #  中小学STEM教育辅助系统
 
