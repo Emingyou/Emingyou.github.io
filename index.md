@@ -61,20 +61,33 @@ title: 登录身份验证
 
 <div class="login-container">
   <h2>STEM教育辅助系统登录</h2>
-  <form class="login-form">
+  <form class="login-form" id="loginForm" onsubmit="return false;">
     <label for="username">用户名</label>
     <input type="text" id="username" name="username" placeholder="请输入用户名" autocomplete="off" required>
 
     <label for="password">密码</label>
     <input type="password" id="password" name="password" placeholder="请输入密码" required>
 
-    <button type="button" disabled>登录</button>
+    <button type="submit" id="loginBtn">登录</button>
   </form>
-  <div class="login-hint">
+  <div class="login-hint" id="loginHint">
     <p>本页面为身份验证流程演示，无实际登录功能。</p>
     <p>如需访问更多内容，请联系管理员。</p>
   </div>
 </div>
+
+<script>
+  document.getElementById('loginForm').addEventListener('submit', function() {
+    var user = document.getElementById('username').value.trim();
+    var pwd = document.getElementById('password').value;
+    var hint = document.getElementById('loginHint');
+    if(user === 'mingyou' && pwd === '123456') {
+      window.location.href = '/indexxx/';
+    } else {
+      hint.innerHTML = '<p style="color:#c00;">用户名或密码错误，请重试。</p>';
+    }
+  });
+</script>
 
 
 
