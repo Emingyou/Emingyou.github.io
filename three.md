@@ -60,9 +60,7 @@ title: 视频教程
 ### Arduino实验第三章-180电控舵机
 - [第六课-自动举牌机（下）通过电位器等控制手段实现180电控舵机的控制](blogs/1.linkboy/6第六课 自动举牌机（下）V2.md)
 
-<video src="/file/视频课程.mp4" controls width="100%" height="auto">
-  您的浏览器不支持视频播放。
-</video>
+[▶️ 播放视频](/video.html?src=/file/视频课程.mp4)
 
 <br>
 
@@ -71,9 +69,7 @@ title: 视频教程
 ### Arduino实验第四章-超声波雷达
 - [第七课-探测雷达（上）使用超声波雷达制作一个倒车雷达功能模型](blogs/1.linkboy/7第七课 探测雷达（上）V2.md)
 
-<video src="/file/视频课程.mp4" controls width="100%" height="auto">
-  您的浏览器不支持视频播放。
-</video>
+[▶️ 播放视频](/video.html?src=/file/视频课程.mp4)
 
 <br>
 
@@ -82,9 +78,7 @@ title: 视频教程
 ### Arduino实验第四章-超声波雷达
 - [第八课-可旋转探测雷达（下）通过180舵机与超声波雷达的元件组合，实现旋转探测](blogs/1.linkboy/8第八课 可旋转探测雷达（下）V2.md)
 
-<video src="/file/视频课程.mp4" controls width="100%" height="auto">
-  您的浏览器不支持视频播放。
-</video>
+[▶️ 播放视频](/video.html?src=/file/视频课程.mp4)
 
 <br>
 
@@ -93,9 +87,7 @@ title: 视频教程
 ### Arduino实验第五章-遥控小车
 - [第九课-遥控小车（上）学习基础的电机控制，实现主板控制电机的旋转情况](blogs/1.linkboy/9第九课 遥控小车（上）V2.md)
 
-<video src="/file/视频课程.mp4" controls width="100%" height="auto">
-  您的浏览器不支持视频播放。
-</video>
+[▶️ 播放视频](/video.html?src=/file/视频课程.mp4)
 
 <br>
 
@@ -104,9 +96,7 @@ title: 视频教程
 ### Arduino实验第五章-遥控小车
 - [第十课-遥控小车（下）以本次学习的多种元件，红外遥控等，最终制成一个具有相当可玩性的遥控小车](blogs/1.linkboy/第十课 遥控小车（下）V2.md)
 
-<video src="/file/视频课程.mp4" controls width="100%" height="auto">
-  您的浏览器不支持视频播放。
-</video>
+[▶️ 播放视频](/video.html?src=/file/视频课程.mp4)
 
 <br>
 
