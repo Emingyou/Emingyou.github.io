@@ -68,3 +68,12 @@
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ site.url }}/images/fav.png">
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.url }}/images/fav.png">
+
+<!-- AOS 动画库引入与初始化 -->
+<link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  AOS.init({ once: true });
+});
+</script>
