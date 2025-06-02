@@ -1,106 +1,80 @@
 ---
 layout: page
-
-title: 关于教育系统
+title: 登录身份验证
 ---
 
 <style>
-.page-content, .post-content, body {
-  font-size: 1.25em;
-  line-height: 2;
-  margin: 0 auto;
-  padding: 2em 1em;
-}
-h1, h2, h3 {
-  font-size: 2em;
-  margin-top: 1.5em;
-}
-ul, li {
-  font-size: 1.1em;
-}
-img.floatpic {
-  max-width: 420px;
-  margin: 1em 2em 1em 0;
-  float: left;
+.login-container {
+  max-width: 380px;
+  margin: 4em auto 2em auto;
+  padding: 2em 2em 1em 2em;
+  background: #f8f8fb;
   border-radius: 12px;
-  box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+  box-shadow: 0 4px 24px rgba(0,0,0,0.09);
 }
-@media (max-width: 700px) {
-  .page-content, .post-content, body {
-    font-size: 1em;
+.login-container h2 {
+  text-align: center;
+  margin-bottom: 1.5em;
+  color: #2d3a4b;
+}
+.login-form label {
+  display: block;
+  margin-bottom: 0.5em;
+  color: #444;
+}
+.login-form input[type="text"],
+.login-form input[type="password"] {
+  width: 100%;
+  padding: 0.7em;
+  margin-bottom: 1.2em;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 1em;
+}
+.login-form button {
+  width: 100%;
+  padding: 0.8em;
+  background: #4b8bf4;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 1.1em;
+  cursor: pointer;
+  margin-bottom: 1em;
+  transition: background 0.2s;
+}
+.login-form button:hover {
+  background: #3466c2;
+}
+.login-hint {
+  text-align: center;
+  color: #888;
+  font-size: 0.98em;
+  margin-top: 1em;
+}
+@media (max-width: 500px) {
+  .login-container {
     padding: 1em 0.5em;
-  }
-  img.floatpic {
-    float: none;
-    display: block;
-    margin: 1em auto;
-    max-width: 95vw;
   }
 }
 </style>
 
-#  中小学STEM教育辅助系统
+<div class="login-container">
+  <h2>STEM教育辅助系统登录</h2>
+  <form class="login-form">
+    <label for="username">用户名</label>
+    <input type="text" id="username" name="username" placeholder="请输入用户名" autocomplete="off" required>
 
+    <label for="password">密码</label>
+    <input type="password" id="password" name="password" placeholder="请输入密码" required>
 
-<img src="images/pt1.jpg" class="floatpic">
-
-<br><br>
-
-
-**<font color="#990000">STEM 教育：培养未来创新者的跨学科教育范式</font>**
-
-<br>
-
-STEM 教育是科学（Science）、技术（Technology）、工程（Engineering）、数学（Mathematics）四门学科的融合式教育体系，它打破传统学科壁垒，以项目式学习（PBL）和问题解决为核心，培养学生的创新思维、实践能力与跨学科整合素养。在科技高速迭代的 21 世纪，STEM 教育已成为全球教育改革的核心方向，旨在为未来社会输送具备竞争力的复合型人才。
-<br>
-<br>
-
-**加入 STEM 教育，解锁未来潜力**.<br>
-<br>
-
-无论是中小学生探索科学奥秘，还是大学生规划职业方向，亦或教育者寻求创新教学模式，STEM 教育都为你提供了一扇通往未来的窗口。在这里，知识不再是枯燥的公式，而是解决问题的钥匙；创新不再是遥不可及的概念，而是手可触及的实践。[我们的位置](https://emingyou.github.io/index/) 
-<br>
-<br>
-
-**<font color="#990000">欢迎同学们前来学习！ have any information, please contact me. Thank you!</font>**
-<br>
----
-<br>
-
-## 为什么 STEM 教育如此重要？
-<br>
-人工智能、气候变化、生物科技等全球性议题，需要跨学科人才运用综合知识提出解决方案。STEM 教育通过模拟真实场景的项目（如设计环保装置、编写智能程序），让学生在实践中掌握 “用科技解决问题” 的思维模式。
-<br>
-- 批判性思维：通过分析数据、验证假设，学会理性决策；
-- 创新创造力：在工程设计、编程建模中突破常规，孕育新想法；
-- 协作与沟通：团队合作完成项目时，锻炼跨学科沟通和资源整合能力；
-- 适应力：面对技术快速更新，培养持续学习和解决复杂问题的能力。
-
-<br>
-<br>
-
----
-
-## 全球STEM教育发展趋势：
-<br>
-<br>
-
-- **从 K12 到终身学习：**：许多国家已将 STEM 纳入基础教育核心课程，如美国的 “Computer Science for All” 计划、中国的 “青少年科技创新大赛”。同时，成人教育中 STEM 技能培训（如数据分析、物联网应用）需求激增。
-<br>
-
-- **多元化与包容性：**越来越多项目致力于缩小性别、地域差距，鼓励女性、少数族裔参与 STEM 领域。例如，“Girls Who Code” 组织通过编程课程激发女孩对科技的兴趣。
-<br>
-
-- **融合人文与伦理：**现代 STEM 教育强调技术的人文关怀，如在人工智能教学中融入伦理讨论，确保技术创新服务于人类福祉。
-<br>
-
-- **加入 STEM 教育，解锁未来潜力：**无论是中小学生探索科学奥秘，还是大学生规划职业方向，亦或教育者寻求创新教学模式，STEM 教育都为你提供了一扇通往未来的窗口。在这里，知识不再是枯燥的公式，而是解决问题的钥匙；创新不再是遥不可及的概念，而是手可触及的实践。
-<br>
-
-- **让我们一起，用 STEM 思维定义未来！**循此苦旅，终抵群星
-<br>
-
-<br>
+    <button type="button" disabled>登录</button>
+  </form>
+  <div class="login-hint">
+    <p>本页面为身份验证流程演示，无实际登录功能。</p>
+    <p>如需访问更多内容，请联系管理员。</p>
+  </div>
+</div>
 
 
 
