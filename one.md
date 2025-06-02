@@ -52,7 +52,7 @@ img.floatpic {
 ### <span data-aos="fade-right">Arduino实验第一章-LED小灯控制</span>
 
 <ul data-aos="fade-left">
-<li><a href="blogs/1.linkboy/1第一课-家居小灯（上）V2.md">第一课-家居小灯（上）制作一个基本的小灯闪烁实验</a></li>
+<li><a href="blogs/1.linkboy/1LV2.md">第一课-家居小灯（上）制作一个基本的小灯闪烁实验</a></li>
 <li><a href="blogs/1.linkboy/2第二课-家居小灯（下）V2.md">第二课-家居小灯（下）实现用按钮控制LED的亮与灭</a></li>
 </ul>
 
