@@ -10,6 +10,10 @@ owner:
   avatar: /LOGO.png
   email: mingyoufhh@outlook.com
   location: 中国 · 西安
+  description: >
+    我们致力于为中小学生及教育工作者提供优质的STEM（科学、技术、工程、数学）教育资源与学习支持。
+    平台内容涵盖科学实验、编程技术、工程设计、数学思维等多个领域，助力培养创新能力与实践能力。
+    欢迎加入我们的学习社区，共同探索STEM的无限可能！
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   bilibili: https://www.bilibili.com
   zhihu: https://www.zhihu.com
