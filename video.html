@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="UTF-8">
+  <title>视频播放</title>
+  <style>
+    body { background: #181818; color: #fff; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100vh; margin: 0; }
+    .container { max-width: 900px; width: 100%; padding: 24px; box-sizing: border-box; }
+    video { width: 100%; height: auto; border-radius: 8px; background: #000; }
+    .back { margin-top: 24px; color: #fff; text-decoration: underline; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <video id="player" controls autoplay>
+      您的浏览器不支持视频播放。
+    </video>
+    <div class="back" onclick="window.history.back()">← 返回课程列表</div>
+  </div>
+  <script>
+    function getQueryVariable(name) {
+      const reg = new RegExp('(^|&)' + name + '=([^&]*)(&|$)', 'i');
+      const r = window.location.search.substr(1).match(reg);
+      if (r != null) return decodeURIComponent(r[2]);
+      return null;
+    }
+    const src = getQueryVariable('src');
+    if (src) {
+      document.getElementById('player').src = src;
+    } else {
+      document.body.innerHTML = '<h2 style="color:#fff;text-align:center;">未指定视频资源</h2>';
+    }
+  </script>
+</body>
+</html>

@@ -15,9 +15,7 @@ title: 视频教程
 ### Arduino实验第一章-LED小灯控制
 - [第一课-家居小灯（上）制作一个基本的小灯闪烁实验](blogs/1.linkboy/1第一课 家居小灯（上）V2.md)
 
-<video src="/assets/video/lesson1.mp4" controls width="100%" height="auto">
-  您的浏览器不支持视频播放。
-</video>
+[▶️ 播放视频](/video.html?src=/assets/video/lesson1.mp4)
 
 <br>
 
@@ -26,9 +24,7 @@ title: 视频教程
 ### Arduino实验第一章-LED小灯控制
 - [第二课-家居小灯（下）实现用按钮控制LED的亮与灭](blogs/1.linkboy/2第二课 家居小灯（下）V2.md)
 
-<video src="/assets/video/lesson1.mp4" controls width="100%" height="auto">
-  您的浏览器不支持视频播放。
-</video>
+[▶️ 播放视频](/video.html?src=/assets/video/lesson1.mp4)
 
 <br>
 
@@ -37,9 +33,7 @@ title: 视频教程
 ### Arduino实验第二章-红外遥控
 - [第三课-遥控报警器（上）使用红外遥控，进行简单的控制](blogs/1.linkboy/3第三课 遥控报警器（上）V2.md)
 
-<video src="/assets/video/lesson1.mp4" controls width="100%" height="auto">
-  您的浏览器不支持视频播放。
-</video>
+[▶️ 播放视频](/video.html?src=/assets/video/lesson1.mp4)
 
 <br>
 
@@ -48,9 +42,7 @@ title: 视频教程
 ### Arduino实验第二章-红外遥控
 - [第四课-遥控报警器（下）通过红外遥控实现多种功能](blogs/1.linkboy/4第四课 遥控报警器（下）V2.md)
 
-<video src="/assets/video/lesson1.mp4" controls width="100%" height="auto">
-  您的浏览器不支持视频播放。
-</video>
+[▶️ 播放视频](/video.html?src=/assets/video/lesson1.mp4)
 
 <br>
 
@@ -59,9 +51,7 @@ title: 视频教程
 ### Arduino实验第三章-180电控舵机
 - [第五课-自动举牌机（上）使用180电控舵机进行舵机臂的旋转](blogs/1.linkboy/5第五课 自动举牌机（上）V2.md)
 
-<video src="/assets/video/lesson1.mp4" controls width="100%" height="auto">
-  您的浏览器不支持视频播放。
-</video>
+[▶️ 播放视频](/video.html?src=/assets/video/lesson1.mp4)
 
 <br>
 
