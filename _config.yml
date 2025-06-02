@@ -7,7 +7,7 @@ title: STEM教育辅助系统
 # Owner/author information
 owner:
   name: STEM学习平台团队
-  avatar: /image/LOGO.png  # 检查此路径是否正确，建议确认目录拼写和文件名大小写
+  avatar: LOGO.png  # 检查此路径是否正确，建议确认目录拼写和文件名大小写
   email: mingyoufhh@outlook.com
   location: 中国 · 西安
   description: >

@@ -46,7 +46,7 @@ img.floatpic {
 
 #  中小学STEM教育辅助系统
 
-<img src="/image/pt1.jpg" class="floatpic" data-aos="fade-right">
+<img src="/images/pt1.jpg" class="floatpic" data-aos="fade-right">
 
 <br><br>
 

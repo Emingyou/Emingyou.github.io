@@ -42,7 +42,7 @@ img.floatpic {
 #  中小学STEM教育辅助系统
 
 
-<img src="image/pt1.jpg" class="floatpic">
+<img src="images/pt1.jpg" class="floatpic">
 
 <br><br>
 
