@@ -53,88 +53,76 @@ margin: 1em auto;
 max-width: 95vw;
 }}</style>
 
-## <span data-aos="fade-right">程序文件下载中心</span>
+## 程序文件下载中心
 
-<div data-aos="fade-up">
 欢迎访问本页，您可以在此下载各类 Arduino、ESP32 及相关实验的程序文件、文档和资料。
-</div>
 
 ---
 
-### <span data-aos="fade-right">Arduino / ESP32 程序文件</span>
-<ul data-aos="fade-left">
-<li><a href="blogs/1.linkboy/1第一课 家居小灯（上）V2.md">1第一课 家居小灯（上）V2.ino</a></li>
-<li><a href="blogs/1.linkboy/2第二课 家居小灯（下）V2.md">2第二课 家居小灯（下）V2.ino</a></li>
-<li><a href="blogs/1.linkboy/3第三课 遥控报警器（上）V2.md">3第三课 遥控报警器（上）V2.ino</a></li>
-<li><a href="blogs/1.linkboy/4第四课 遥控报警器（下）V2.md">4第四课 遥控报警器（下）V2.ino</a></li>
-<li><a href="blogs/1.linkboy/5第五课 自动举牌机（上）V2.md">5第五课 自动举牌机（上）V2.ino</a></li>
-<li><a href="blogs/1.linkboy/6第六课 自动举牌机（下）V2.md">6第六课 自动举牌机（下）V2.ino</a></li>
-<li><a href="blogs/1.linkboy/7第七课 探测雷达（上）V2.md">7第七课 探测雷达（上）V2.ino</a></li>
-<li><a href="blogs/1.linkboy/8第八课 可旋转探测雷达（下）V2.md">8第八课 可旋转探测雷达（下）V2.ino</a></li>
-<li><a href="blogs/1.linkboy/9第九课 遥控小车（上）V2.md">9第九课 遥控小车（上）V2.ino</a></li>
-<li><a href="blogs/1.linkboy/第十课 遥控小车（下）V2.md">第十课 遥控小车（下）V2.ino</a></li>
-</ul>
+### Arduino / ESP32 程序文件
+- [1第一课 家居小灯（上）V2.ino](blogs/1.linkboy/1第一课 家居小灯（上）V2.md)
+- [2第二课 家居小灯（下）V2.ino](blogs/1.linkboy/2第二课 家居小灯（下）V2.md)
+- [3第三课 遥控报警器（上）V2.ino](blogs/1.linkboy/3第三课 遥控报警器（上）V2.md)
+- [4第四课 遥控报警器（下）V2.ino](blogs/1.linkboy/4第四课 遥控报警器（下）V2.md)
+- [5第五课 自动举牌机（上）V2.ino](blogs/1.linkboy/5第五课 自动举牌机（上）V2.md)
+- [6第六课 自动举牌机（下）V2.ino](blogs/1.linkboy/6第六课 自动举牌机（下）V2.md)
+- [7第七课 探测雷达（上）V2.ino](blogs/1.linkboy/7第七课 探测雷达（上）V2.md)
+- [8第八课 可旋转探测雷达（下）V2.ino](blogs/1.linkboy/8第八课 可旋转探测雷达（下）V2.md)
+- [9第九课 遥控小车（上）V2.ino](blogs/1.linkboy/9第九课 遥控小车（上）V2.md)
+- [第十课 遥控小车（下）V2.ino](blogs/1.linkboy/第十课 遥控小车（下）V2.md)
 
 ---
 
-### <span data-aos="fade-right">实验 Lab 文件</span>
-<ul data-aos="fade-left">
-<li><a href="blogs/2.lab/2按钮按灯.lab">2按钮按灯.lab</a></li>
-<li><a href="blogs/2.lab/4.呼吸灯.lab">4.呼吸灯.lab</a></li>
-<li><a href="blogs/2.lab/7.数码管循环显示.lab">7.数码管循环显示.lab</a></li>
-<li><a href="blogs/2.lab/8.倒计时器.lab">8.倒计时器.lab</a></li>
-<li><a href="blogs/2.lab/9.串口通信1.lab">9.串口通信1.lab</a></li>
-<li><a href="blogs/2.lab/9.串口通信2.lab">9.串口通信2.lab</a></li>
-<li><a href="blogs/2.lab/9.串口通信3.lab">9.串口通信3.lab</a></li>
-<li><a href="blogs/2.lab/10.舵机控制（上）.lab">10.舵机控制（上）.lab</a></li>
-<li><a href="blogs/2.lab/10.舵机控制（下）.lab">10.舵机控制（下）.lab</a></li>
-<li><a href="blogs/2.lab/11.超声波雷达（一）.lab">11.超声波雷达（一）.lab</a></li>
-<li><a href="blogs/2.lab/11.超声波雷达（二）.lab">11.超声波雷达（二）.lab</a></li>
-<li><a href="blogs/2.lab/11.超声波雷达（三）.lab">11.超声波雷达（三）.lab</a></li>
-<li><a href="blogs/2.lab/12.红外遥控.lab">12.红外遥控.lab</a></li>
-</ul>
+### 实验 Lab 文件
+- [2按钮按灯.lab](blogs/2.lab/2按钮按灯.lab)
+- [4.呼吸灯.lab](blogs/2.lab/4.呼吸灯.lab)
+- [7.数码管循环显示.lab](blogs/2.lab/7.数码管循环显示.lab)
+- [8.倒计时器.lab](blogs/2.lab/8.倒计时器.lab)
+- [9.串口通信1.lab](blogs/2.lab/9.串口通信1.lab)
+- [9.串口通信2.lab](blogs/2.lab/9.串口通信2.lab)
+- [9.串口通信3.lab](blogs/2.lab/9.串口通信3.lab)
+- [10.舵机控制（上）.lab](blogs/2.lab/10.舵机控制（上）.lab)
+- [10.舵机控制（下）.lab](blogs/2.lab/10.舵机控制（下）.lab)
+- [11.超声波雷达（一）.lab](blogs/2.lab/11.超声波雷达（一）.lab)
+- [11.超声波雷达（二）.lab](blogs/2.lab/11.超声波雷达（二）.lab)
+- [11.超声波雷达（三）.lab](blogs/2.lab/11.超声波雷达（三）.lab)
+- [12.红外遥控.lab](blogs/2.lab/12.红外遥控.lab)
 
 ---
 
-### <span data-aos="fade-right">学习文档（MD）</span>
-<ul data-aos="fade-left">
-<li><a href="blogs/2.MD/1小灯闪烁-学习文档.md">1小灯闪烁-学习文档.md</a></li>
-<li><a href="blogs/2.MD/2按钮按灯-学习文档.md">2按钮按灯-学习文档.md</a></li>
-<li><a href="blogs/2.MD/3按钮控灯-学习文档.md">3按钮控灯-学习文档.md</a></li>
-<li><a href="blogs/2.MD/4呼吸灯-学习文档.md">4呼吸灯-学习文档.md</a></li>
-<li><a href="blogs/2.MD/5流水灯-学习文档.md">5流水灯-学习文档.md</a></li>
-<li><a href="blogs/2.MD/6电位器调光-学习文档.md">6电位器调光-学习文档.md</a></li>
-<li><a href="blogs/2.MD/7.数码管使用-学习文档.md">7.数码管使用-学习文档.md</a></li>
-<li><a href="blogs/2.MD/8.倒计时器-学习文档.md">8.倒计时器-学习文档.md</a></li>
-<li><a href="blogs/2.MD/9.串口通信-学习文档.md">9.串口通信-学习文档.md</a></li>
-<li><a href="blogs/2.MD/10.舵机控制-学习文档.md">10.舵机控制-学习文档.md</a></li>
-<li><a href="blogs/2.MD/11.超声波雷达-学习文档.md">11.超声波雷达-学习文档.md</a></li>
-<li><a href="blogs/2.MD/12.红外遥控-学习文档.md">12.红外遥控-学习文档.md</a></li>
-</ul>
+### 学习文档（MD）
+- [1小灯闪烁-学习文档.md](blogs/2.MD/1小灯闪烁-学习文档.md)
+- [2按钮按灯-学习文档.md](blogs/2.MD/2按钮按灯-学习文档.md)
+- [3按钮控灯-学习文档.md](blogs/2.MD/3按钮控灯-学习文档.md)
+- [4呼吸灯-学习文档.md](blogs/2.MD/4呼吸灯-学习文档.md)
+- [5流水灯-学习文档.md](blogs/2.MD/5流水灯-学习文档.md)
+- [6电位器调光-学习文档.md](blogs/2.MD/6电位器调光-学习文档.md)
+- [7.数码管使用-学习文档.md](blogs/2.MD/7.数码管使用-学习文档.md)
+- [8.倒计时器-学习文档.md](blogs/2.MD/8.倒计时器-学习文档.md)
+- [9.串口通信-学习文档.md](blogs/2.MD/9.串口通信-学习文档.md)
+- [10.舵机控制-学习文档.md](blogs/2.MD/10.舵机控制-学习文档.md)
+- [11.超声波雷达-学习文档.md](blogs/2.MD/11.超声波雷达-学习文档.md)
+- [12.红外遥控-学习文档.md](blogs/2.MD/12.红外遥控-学习文档.md)
 
 ---
 
-### <span data-aos="fade-right">MIX 文件</span>
-<ul data-aos="fade-left">
-<li><a href="blogs/2.mix/1.esp32-闪灯.mix">1.esp32-闪灯.mix</a></li>
-<li><a href="blogs/2.mix/2.esp32-按钮按灯.mix">2.esp32-按钮按灯.mix</a></li>
-<li><a href="blogs/2.mix/3.arduino-按钮控灯.mix">3.arduino-按钮控灯.mix</a></li>
-<li><a href="blogs/2.mix/3.esp32-按钮控灯.mix">3.esp32-按钮控灯.mix</a></li>
-<li><a href="blogs/2.mix/10.舵机控制（上）MIX.mix">10.舵机控制（上）MIX.mix</a></li>
-<li><a href="blogs/2.mix/10.舵机控制（下）MIX.mix">10.舵机控制（下）MIX.mix</a></li>
-<li><a href="blogs/2.mix/11.超声波雷达（一）MIX.mix">11.超声波雷达（一）MIX.mix</a></li>
-<li><a href="blogs/2.mix/11.超声波雷达（二）MIX.mix">11.超声波雷达（二）MIX.mix</a></li>
-<li><a href="blogs/2.mix/11.超声波雷达（三）.mix">11.超声波雷达（三）.mix</a></li>
-<li><a href="blogs/2.mix/12.红外遥控（上）.mix">12.红外遥控（上）.mix</a></li>
-<li><a href="blogs/2.mix/12.红外遥控（下）.mix">12.红外遥控（下）.mix</a></li>
-</ul>
+### MIX 文件
+- [1.esp32-闪灯.mix](blogs/2.mix/1.esp32-闪灯.mix)
+- [2.esp32-按钮按灯.mix](blogs/2.mix/2.esp32-按钮按灯.mix)
+- [3.arduino-按钮控灯.mix](blogs/2.mix/3.arduino-按钮控灯.mix)
+- [3.esp32-按钮控灯.mix](blogs/2.mix/3.esp32-按钮控灯.mix)
+- [10.舵机控制（上）MIX.mix](blogs/2.mix/10.舵机控制（上）MIX.mix)
+- [10.舵机控制（下）MIX.mix](blogs/2.mix/10.舵机控制（下）MIX.mix)
+- [11.超声波雷达（一）MIX.mix](blogs/2.mix/11.超声波雷达（一）MIX.mix)
+- [11.超声波雷达（二）MIX.mix](blogs/2.mix/11.超声波雷达（二）MIX.mix)
+- [11.超声波雷达（三）.mix](blogs/2.mix/11.超声波雷达（三）.mix)
+- [12.红外遥控（上）.mix](blogs/2.mix/12.红外遥控（上）.mix)
+- [12.红外遥控（下）.mix](blogs/2.mix/12.红外遥控（下）.mix)
 
 ---
 
-### <span data-aos="fade-right">其他资料</span>
-<ul data-aos="fade-left">
-<li><a href="image/LOGO.png">LOGO图片</a></li>
-<li><a href="image/pt1.jpg">pt图片</a></li>
-</ul>
+### 其他资料
+- [LOGO图片](image/LOGO.png)
+- [pt图片](image/pt1.jpg)
 
 ---
