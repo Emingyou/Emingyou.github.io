@@ -122,7 +122,7 @@ max-width: 95vw;
 ---
 
 ### 其他资料
-- [LOGO图片](image/LOGO.png)
-- [pt图片](image/pt1.jpg)
+- [LOGO图片](images/LOGO.png)
+- [pt图片](images/pt1.jpg)
 
 ---
