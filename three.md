@@ -6,38 +6,52 @@ title: 视频教程
 
 <style>
 .page-content, .post-content, body {
-  font-size: 1.25em;
-  line-height: 2;
-  margin: 0 auto;
-  padding: 2em 1em;
-}
-h1, h2, h3 {
-  font-size: 2em;
-  margin-top: 1.5em;
-}
-ul, li {
-  font-size: 1.1em;
-}
-img.floatpic {
-  max-width: 420px;
-  margin: 1em 2em 1em 0;
-  float: left;
-  border-radius: 12px;
-  box-shadow: 0 4px 18px rgba(0,0,0,0.08);
-}
-@media (max-width: 700px) {
-  .page-content, .post-content, body {
-    font-size: 1em;
-    padding: 1em 0.5em;
-  }
-  img.floatpic {
-    float: none;
-    display: block;
-    margin: 1em auto;
-    max-width: 95vw;
-  }
-}
-</style>
+font-size: 1.25em;
+line-height: 2;
+margin: 0 auto;
+padding: 2em 1em;
+}h1, h2, h3 {
+font-size: 2em;
+margin-top: 1.5em;
+}ul, li {
+font-size: 1.1em;
+}img.floatpic {
+max-width: 420px;
+margin: 1em 2em 1em 0;
+float: left;
+border-radius: 12px;
+box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+transition: transform 0.3s ease;
+}img.floatpic:hover {
+transform: translateY(-5px) scale(1.02);
+}a {
+color: #007BFF;
+text-decoration: none;
+position: relative;
+transition: all 0.3s ease;
+}a:hover {
+color: #0056b3;
+}a::after {
+content: '';
+position: absolute;
+width: 0;
+height: 2px;
+bottom: -2px;
+left: 0;
+background-color: #007BFF;
+transition: width 0.3s ease;
+}a:hover::after {
+width: 100%;
+}@media (max-width: 700px) {
+.page-content, .post-content, body {
+font-size: 1em;
+padding: 1em 0.5em;
+}img.floatpic {
+float: none;
+display: block;
+margin: 1em auto;
+max-width: 95vw;
+}}</style>
 
 ## <span data-aos="fade-right">初级学习教程</span>
 ### <span data-aos="fade-left">-基于link boy的Arduino UNO学习</span>
