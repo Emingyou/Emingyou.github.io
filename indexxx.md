@@ -9,7 +9,6 @@ title: 关于STEM教育
 .page-content, .post-content, body {
   font-size: 1.25em;
   line-height: 2;
-  max-width: 900px;
   margin: 0 auto;
   padding: 2em 1em;
 }
