@@ -1,0 +1,14 @@
+{%- comment -%} ...existing code... {%- endcomment -%}
+{%- assign owner_links = site.owner | where_exp: "item", "item[1] contains '/'" -%}
+{%- if owner_links.size > 0 -%}
+  <nav class="sidebar__owner-links">
+    <ul>
+      {%- for link in owner_links -%}
+        <li>
+          <a href="{{ link[1] }}">{{ link[0] }}</a>
+        </li>
+      {%- endfor -%}
+    </ul>
+  </nav>
+{%- endif -%}
+{%- comment -%} ...existing code... {%- endcomment -%}
