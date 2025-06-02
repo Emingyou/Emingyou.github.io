@@ -6,13 +6,15 @@ title: STEM教育辅助系统
 
 # Owner/author information
 owner:
-  name: 系统管理
-  avatar: LOGO.jpg
+  name: STEM学习平台团队
+  avatar: /LOGO.png
   email: mingyoufhh@outlook.com
-  location: xian, China
+  location: 中国 · 西安
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   bilibili: https://www.bilibili.com
   zhihu: https://www.zhihu.com
+  github: https://github.com/Emingyou
+  # 可添加更多STEM相关社交或资源链接
 
 
 
