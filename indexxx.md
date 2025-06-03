@@ -12,11 +12,14 @@ body {
   background-size: cover;
 }
 .page-content, .post-content {
-  background: rgba(255,255,255,0.97); /* 提高不透明度，提升可读性 */
+  background: rgba(255,255,255,0.97);
   border-radius: 14px;
   box-shadow: 0 4px 24px rgba(0,0,0,0.09);
-  /* 新增：加一点边框让内容更突出 */
   border: 1.5px solid #e0e0e0;
+  /* 问题点：未设置最大宽度和响应式边距，导致在手机上内容过宽或溢出 */
+  max-width: 900px;
+  margin: 2em auto;
+  box-sizing: border-box;
 }
 .page-content, .post-content, body {
   font-size: 1.25em;
@@ -42,6 +45,10 @@ img.floatpic {
   .page-content, .post-content, body {
     font-size: 1em;
     padding: 1em 0.5em;
+    /* 问题点：未限制最大宽度，内容可能超出屏幕 */
+    max-width: 100vw;
+    margin: 0;
+    box-sizing: border-box;
   }
   img.floatpic {
     float: none;
