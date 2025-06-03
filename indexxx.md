@@ -8,7 +8,7 @@ title: 关于STEM教育
 <style>
 body {
   /* 新增：设置背景图片 */
-  background: url('/images/R.jpg') no-repeat center center fixed;
+  background: url('/images/p3.jpg') no-repeat center center fixed;
   background-size: cover;
 }
 .page-content, .post-content {
