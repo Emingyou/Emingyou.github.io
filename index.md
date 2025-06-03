@@ -6,7 +6,7 @@ title: 登录身份验证
 <style>
 body {
   /* 新增：设置背景图片 */
-  background: url('/images/R.jpg') no-repeat center center fixed;
+  background: url('/images/p1.jpg') no-repeat center center fixed;
   background-size: cover;
 }
 .login-container {
