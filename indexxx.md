@@ -52,21 +52,14 @@ img.floatpic {
     max-width: 100vw;
     margin: 0;
     box-sizing: border-box;
-    /* 新增：让内容背景更不透明，提升小屏可读性 */
-    background: rgba(255,255,255,0.99) !important;
+ 
   }
   img.floatpic {
     float: none;
     display: block;
     margin: 1em auto;
     max-width: 95vw;
-    width: 100%;
-    height: auto;
-  }
-  /* 新增：让body背景色变浅，防止小字看不清 */
-  body {
-    background-color: #f8f8f8 !important;
-    background-blend-mode: lighten;
+   
   }
 }
 </style>
