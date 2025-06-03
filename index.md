@@ -4,11 +4,16 @@ title: 登录身份验证
 ---
 
 <style>
+body {
+  /* 新增：设置背景图片 */
+  background: url('/images/R.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
 .login-container {
   max-width: 380px;
   margin: 4em auto 2em auto;
   padding: 2em 2em 1em 2em;
-  background: #f8f8fb;
+  background: rgba(248,248,251,0.92); /* 修改为半透明以显示背景 */
   border-radius: 12px;
   box-shadow: 0 4px 24px rgba(0,0,0,0.09);
 }
