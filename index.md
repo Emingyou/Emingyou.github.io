@@ -76,7 +76,7 @@ body {
     <button type="submit" id="loginBtn">登录</button>
   </form>
   <div class="login-hint" id="loginHint">
-    <p>本页面为身份验证流程模块，为进入系统的入口。</p>
+    <p>本页面为身份验证流程模块，进入系统入口。</p>
     <p>如需访问更多内容，请联系管理员。</p>
   </div>
 </div>
