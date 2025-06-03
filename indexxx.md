@@ -11,16 +11,18 @@ body {
   background: url('/images/R.jpg') no-repeat center center fixed;
   background-size: cover;
 }
+.page-content, .post-content {
+  background: rgba(255,255,255,0.97); /* 提高不透明度，提升可读性 */
+  border-radius: 14px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.09);
+  /* 新增：加一点边框让内容更突出 */
+  border: 1.5px solid #e0e0e0;
+}
 .page-content, .post-content, body {
   font-size: 1.25em;
   line-height: 2;
   margin: 0 auto;
   padding: 2em 1em;
-}
-.page-content, .post-content {
-  background: rgba(255,255,255,0.92); /* 新增：内容半透明，便于背景显示 */
-  border-radius: 14px;
-  box-shadow: 0 4px 24px rgba(0,0,0,0.09);
 }
 h1, h2, h3 {
   font-size: 2em;
